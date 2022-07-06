@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jtranberg
-- 👀 I’m interested in ...web 3.0
-- 🌱 I’m currently learning ...intracacies to blockchain
+- 👀 I’m interested in ...Blockchain
+- 🌱 I’m currently learning ...intracacies of blockchain and how to style for interactive usage
 - 💞️ I’m looking to collaborate on ...anything smart contract and blockchain
-- 📫 How to reach me ...
+- 📫 How to reach me ...www.jaytranberg.com
 
 <!---
 jtranberg/jtranberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
