@@ -1,71 +1,64 @@
-# 👋 Hey there, I’m Jay Tranberg
+👋 Hey there, I’m Jay Tranberg
+🧠 Full-Stack Engineer | AI Builder | IoT Innovator
+⚡ Delivering high-impact systems from embedded firmware to scalable SaaS.
 
-🧠 **Full-Stack Engineer | IoT Innovator | AI Builder**  
-⚡ Turning ideas into deployed, data-driven products — fast.
+🔧 What I’m Building
+MAGNETS (Project Snowman) – carbon capture system:
 
----
+ESP32 firmware with BLE secure pairing
 
-## 🔧 What I’m Building
+Modular, maintainable C++ codebase (S.O.L.I.D. principles)
 
-- **Project Snowman** – An ESP32-based **real-time carbon capture monitoring system**, featuring:
-  - BLE-based secure pairing
-  - Modular C++ firmware using S.O.L.I.D.
-  - Live React dashboard + prediction model
-  - ✅ Reduced API calls by 85%, saving compute + cloud costs
+Live React dashboard + predictive analytics
 
-- **Color Mixer Pro** – A commercial SaaS for color theory + visual design
-- **DR.Epidermus** – AI-powered mobile app for skin condition diagnosis using TensorFlow, Flask, Expo, and Gemini AI
-- **The In and Out App** – Launched SaaS for tracking & lending inventory across departments or crews
-- ... and more in the pipeline.
+Reduced API overhead by 85%, cutting compute and cloud costs
 
----
+Color Mixer Pro – Commercial SaaS for color theory and visual design with Stripe billing
 
-## 🛠 Tech I Use
+DR.Epidermus – AI-powered mobile app for skin condition diagnosis using TensorFlow, Flask, Expo, and Gemini AI
 
-**Languages:**  
-`JavaScript` `TypeScript` `C++` `Python` `Java`
+The In and Out App – SaaS for tracking & lending inventory across departments or crews
 
-**Frameworks & Tools:**  
-`React` `Next.js` `Expo` `Node.js` `Express`  
-`Flask` `TensorFlow/Keras` `MongoDB` `PostgreSQL`  
-`PlatformIO` `ESP32` `Docker` `CI/CD Pipelines`
+Historically Accurate – AI-driven historical image generator + upscaler using FAL API
 
-**Specialties:**  
-✅ IoT & edge firmware  
-✅ Full-stack web apps  
-✅ AI/ML model integration  
-✅ BLE, embedded systems  
-✅ Rapid prototyping & deployment
+...and more in development, blending hardware, AI, and web.
 
----
+🛠 Tech I Use
+Languages:
+JavaScript TypeScript C++ Python Java SQL
 
-## 🧩 What I Love Working On
+Frameworks & Tools:
+React Next.js Expo Node.js Express
+Flask TensorFlow/Keras MongoDB PostgreSQL
+PlatformIO ESP32 Docker CI/CD Pipelines Stripe API
 
-- Smart IoT systems with real-world impact  
-- Predictive AI models with live frontend integration  
-- Clean UX + slick interfaces that make complex tools feel simple  
-- Systems that scale: event-driven, modular, and efficient
+Specialties:
+✅ Full-stack SaaS development
+✅ IoT & embedded firmware
+✅ AI/ML model integration
+✅ BLE + wireless provisioning
+✅ Rapid prototyping & product launch
 
----
+🧩 What I Love Working On
+AI-assisted tools with real-world application
 
-## 🧪 Featured Projects
+IoT systems with predictive analytics and rich dashboards
 
-| Project           | Tech Stack                | Highlights                         |
-|------------------|---------------------------|------------------------------------|
-| **Project Snowman** | ESP32, C++, BLE, React      | Carbon capture IoT, BLE security   |
-| **DR.Epidermus**   | TensorFlow, Flask, Expo     | AI skin diagnosis, live predictions |
-| **Color Mixer Pro**| Vite, Node, MongoDB, Stripe | Launched design SaaS w/ payments   |
-| **In and Out App** | MERN + SaaS                | Team item tracking & lending       |
+SaaS products that scale efficiently and securely
 
----
+Elegant, accessible UX for complex workflows
 
-## 📫 Reach Me
+🧪 Featured Projects
+Project	Tech Stack	Highlights
+project snowman	ESP32, C++, BLE, React, AI	Carbon capture IoT with predictive dashboard
+Color Mixer Pro	Vite, Node, MongoDB, Stripe	Launched design SaaS w/ payments
+DR.Epidermus	TensorFlow, Flask, Expo, Gemini	AI skin diagnosis + live predictions
+In and Out App	MERN + SaaS	Team item tracking & lending
+Historically Accurate	Next.js, FAL API	AI image gen + automated upscaling
 
-📧 jtranberg@hotmail.ca  
-🌐 [LinkedIn](https://www.linkedin.com/in/your-profile) *(insert actual link)*  
+📫 Reach Me
+📧 jtranberg@hotmail.ca
+🌐 LinkedIn
 📍 Victoria, BC
 
----
-
-> ⚙️ Building real-world systems from the firmware to the frontend — and always shipping.
-
+⚙️ Building products that merge hardware, AI, and scalable software — always shipping.
