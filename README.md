@@ -1,64 +1,111 @@
-👋 Hey there, I’m Jay Tranberg
-🧠 Full-Stack Engineer | AI Builder | IoT Innovator
-⚡ Delivering high-impact systems from embedded firmware to scalable SaaS.
+# 👋 Hey, I’m **Jay Tranberg**
 
-🔧 What I’m Building
-MAGNETS (Project Snowman) – carbon capture system:
+### 🧠 Full-Stack Engineer • AI Builder • IoT Innovator  
+Building real systems end-to-end — from embedded firmware and BLE provisioning to scalable SaaS apps, AI assistants, predictive dashboards, and full commercial product launches.
 
-ESP32 firmware with BLE secure pairing
+---
 
-Modular, maintainable C++ codebase (S.O.L.I.D. principles)
+## ⚡ What I’m Building
 
-Live React dashboard + predictive analytics
+### **MAGNETS (Project Snowman)** — exhaust-flow conditioning & IoT telemetry platform  
+*Modular clean-tech R&D with embedded systems + live analytics.*
 
-Reduced API overhead by 85%, cutting compute and cloud costs
+- ESP32-S3 firmware with secure BLE pairing  
+- Modular C++ architecture using S.O.L.I.D. principles  
+- Live React dashboard with trend views + health scoring  
+- Predictive analytics + maintenance cues  
+- 85% reduction in API overhead → faster, cheaper cloud operation  
+- Active TRL-5 testing, TRL-6 in progress  
 
-Color Mixer Pro – Commercial SaaS for color theory and visual design with Stripe billing
+---
 
-DR.Epidermus – AI-powered mobile app for skin condition diagnosis using TensorFlow, Flask, Expo, and Gemini AI
+### **Color Mixer Pro** — Commercial SaaS with Stripe Billing  
+A pro-grade color theory + AI palette generation platform.
 
-The In and Out App – SaaS for tracking & lending inventory across departments or crews
+- Vite + Node backend  
+- MongoDB + secure auth  
+- Stripe subscriptions + webhooks  
+- Deployed as a production SaaS  
 
-Historically Accurate – AI-driven historical image generator + upscaler using FAL API
+---
 
-...and more in development, blending hardware, AI, and web.
+### **DR.Epidermus / SkinScan** — AI skin diagnosis mobile app  
+Real-time skin condition classification + recommendations.
 
-🛠 Tech I Use
-Languages:
-JavaScript TypeScript C++ Python Java SQL
+- TensorFlow/Keras & Flask backend  
+- Expo React Native app  
+- Gemini AI for doctor/clinic recommendations  
+- 3-model prediction architecture (triage → full model → treatment mapping)  
 
-Frameworks & Tools:
-React Next.js Expo Node.js Express
-Flask TensorFlow/Keras MongoDB PostgreSQL
-PlatformIO ESP32 Docker CI/CD Pipelines Stripe API
+---
 
-Specialties:
-✅ Full-stack SaaS development
-✅ IoT & embedded firmware
-✅ AI/ML model integration
-✅ BLE + wireless provisioning
-✅ Rapid prototyping & product launch
+### **The In and Out App** — Inventory & equipment tracking SaaS  
+Built for crews, departments, and small businesses.
 
-🧩 What I Love Working On
-AI-assisted tools with real-world application
+- MERN stack  
+- JWT auth, role-based access  
+- Item lending, returns, logs, and reporting  
+- Launched for real teams in production  
 
-IoT systems with predictive analytics and rich dashboards
+---
 
-SaaS products that scale efficiently and securely
+### **Historically Accurate** — AI-driven image generation + upscaling  
+Hyper-real historical photography powered by FAL API.
 
-Elegant, accessible UX for complex workflows
+- Next.js frontend  
+- Backend “magic prompt” engine  
+- Automatic image → upscaler pipeline  
+- Production-ready deployment  
 
-🧪 Featured Projects
-Project	Tech Stack	Highlights
-project snowman	ESP32, C++, BLE, React, AI	Carbon capture IoT with predictive dashboard
-Color Mixer Pro	Vite, Node, MongoDB, Stripe	Launched design SaaS w/ payments
-DR.Epidermus	TensorFlow, Flask, Expo, Gemini	AI skin diagnosis + live predictions
-In and Out App	MERN + SaaS	Team item tracking & lending
-Historically Accurate	Next.js, FAL API	AI image gen + automated upscaling
+---
 
-📫 Reach Me
-📧 jtranberg@hotmail.ca
-🌐 LinkedIn
-📍 Victoria, BC
+## 🛠 **Tech I Work With**
 
-⚙️ Building products that merge hardware, AI, and scalable software — always shipping.
+### **Languages**
+JavaScript • TypeScript • C++ • Python • Java • SQL
+
+### **Frameworks & Tools**
+React • Next.js • Expo • Node.js • Express  
+Flask • TensorFlow/Keras • MongoDB • PostgreSQL  
+PlatformIO • ESP32 • Docker • Stripe API • CI/CD Pipelines
+
+### **Specialties**
+- 🚀 Full-stack SaaS architecture  
+- ⚡ Embedded systems & IoT firmware  
+- 🤖 AI/ML integrations for real-world use  
+- 📡 BLE & wireless provisioning flows  
+- 📊 Predictive dashboards and analytics  
+- 🧪 Rapid prototyping → deployment  
+
+---
+
+## 🧩 **What I Love Working On**
+- AI-assisted tools with practical benefits  
+- Real-world IoT systems with telemetry + prediction  
+- Clean-tech hardware + embedded firmware  
+- SaaS products that scale efficiently  
+- Simple, elegant UX that masks complex systems  
+
+---
+
+## 🧪 Featured Projects
+
+| Project | Tech Stack | Highlights |
+|--------|------------|------------|
+| **Project Snowman** | ESP32, C++, BLE, React, AI | IoT exhaust-flow conditioning + predictive dashboard |
+| **Color Mixer Pro** | Vite, Node, MongoDB, Stripe | Commercial SaaS with subscriptions |
+| **DR.Epidermus** | TensorFlow, Flask, Expo, Gemini | AI skin diagnosis with 8-class model |
+| **In and Out App** | MERN + SaaS | Team gear tracking & lending |
+| **Historically Accurate** | Next.js, FAL API | AI historical image generator |
+
+---
+
+## 📫 **Reach Me**
+📧 **jtranberg@hotmail.ca**  
+🔗 **LinkedIn:** https://linkedin.com  
+📍 Victoria, BC  
+🌐 tranberginnovations.com  
+
+---
+
+⚙️ **I build products that merge hardware, AI, and software—and I always ship.**  
