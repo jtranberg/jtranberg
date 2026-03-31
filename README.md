@@ -9,9 +9,8 @@
 
 # 👋 Hey, I’m **Jay Tranberg**
 
-### 🧠 Full-Stack Engineer • AI Builder • IoT Innovator  
-Building real systems end-to-end — from embedded firmware and BLE provisioning to scalable SaaS apps, AI assistants, predictive dashboards, and full commercial product launches.
-
+### 🧠 Full-Stack Engineer • AI Builder • IoT Systems Developer  
+Designing and shipping real-world systems end-to-end — from embedded firmware and BLE provisioning to scalable SaaS platforms, AI-powered assistants, predictive dashboards, and production-ready data pipelines.
 ---
 
 ## ⚡ What I’m Building
