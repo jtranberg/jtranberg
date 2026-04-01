@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./A_digital_graphic_banner_for_Tranberg_Innovations_.png"
        alt="Tranberg Innovations Banner"
-       width="100%" />
+       width="50%" />
 </p>
 
 
